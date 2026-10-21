@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Memfind mark for light backgrounds (ink lens and text lines). -->
+  <defs><clipPath id="lens"><circle cx="458" cy="458" r="256"/></clipPath></defs>
+  <g clip-path="url(#lens)">
+    <clipPath id="card"><rect x="320" y="296" width="276" height="172" rx="26"/></clipPath>
+    <rect x="320" y="296" width="276" height="172" rx="26" fill="#5571FF"/>
+    <g clip-path="url(#card)">
+      <circle cx="548" cy="342" r="24" fill="#FFC655"/>
+      <path d="M300 480 L398 384 L456 434 L512 392 L620 480 Z" fill="#FFFFFF"/>
+    </g>
+    <g stroke="#131628" stroke-width="34" stroke-linecap="round" fill="none">
+      <path d="M320 530 L596 530"/>
+      <path d="M320 594 L500 594"/>
+    </g>
+  </g>
+  <g fill="none" stroke="#131628" stroke-linecap="round">
+    <circle cx="458" cy="458" r="256" stroke-width="77"/>
+    <path d="M666 666 L811 811" stroke-width="96"/>
+  </g>
+</svg>
