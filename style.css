@@ -36,3 +36,5 @@ a { color: var(--accent); text-decoration-color: var(--thread); text-underline-o
 .button.secondary { background: transparent; color: var(--text); border: 1px solid var(--line); }
 footer { margin-top: 56px; padding-top: 20px; border-top: 1px solid var(--line); font-size: 14px; color: var(--muted); }
 footer a { margin-right: 16px; }
+.store-badge { display: inline-block; }
+.store-badge img { display: block; height: 50px; width: auto; }
