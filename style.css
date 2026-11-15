@@ -70,3 +70,7 @@ footer a { margin-right: 16px; }
 }
 @media (prefers-color-scheme: dark) { .compare thead .us img.mark-light { display: none; } }
 @media (prefers-color-scheme: light) { .compare thead .us img.mark-dark { display: none; } }
+
+footer .badges { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 16px; margin-top: 16px; }
+footer .badges > div { margin-top: 0 !important; }
+footer .badges img { height: 48px !important; width: auto !important; }
