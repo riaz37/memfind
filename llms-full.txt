@@ -1,0 +1,63 @@
+# Memfind
+
+> Memfind searches your photos, screenshots, videos, PDFs, documents and voice recordings by what is in them, in your own words, on iPhone, iPad and Mac. Everything is indexed and searched on the device; nothing is uploaded.
+
+Memfind is an app for iPhone, iPad and Mac. It is free for 7 days, then $14.99 once (no subscription); one purchase covers all three devices. It works offline after a one-time model download and collects no data (App Store privacy label: Data Not Collected). It searches in English, Bengali and Arabic.
+
+## Links
+
+- [Download on the App Store](https://apps.apple.com/app/id6825525742): iPhone, iPad and Mac
+- [Home page](https://www.getmemfind.com/): what it does, with screen recordings
+- [Privacy policy](https://www.getmemfind.com/privacy.html): no data collected
+- [Support](https://www.getmemfind.com/support.html): help, contact memfind.app@gmail.com
+- [Full text for language models](https://www.getmemfind.com/llms-full.txt)
+
+## What it searches
+
+Photos, Screenshots, Videos, PDFs, Plain text, Markdown, RTF, Web pages, Voice memos, Audio you share to it, Folders you choose, The Share sheet, Spotlight, English, Bengali, Arabic, Receipts, Booking codes, Amounts, Names.
+
+## Questions
+
+- **Does anything leave my phone?** No. Searching and indexing happen on the device. The only network request is the one-time download of the search model, and it carries none of your data.
+- **What can it search?** Photos, screenshots and videos from your library, PDFs, text documents, Markdown, RTF and web pages from folders you choose, and voice memos and audio you share to it.
+- **How big is the first download?** About 865 MB on first launch, so use Wi-Fi. After that it works offline.
+- **Will it drain my battery?** It reads your library while it’s open and can carry on overnight while your device charges. It pauses by itself when the device is hot or the battery is low.
+- **Is it a subscription?** No. Use everything free for 7 days, then one payment unlocks it for good, on iPhone, iPad and Mac.
+
+## Examples
+
+### The booking code
+
+Search: "K7Q2LM"
+
+At the counter, with the code half remembered. Codes, names and amounts match exactly, including the words inside your screenshots. You type the six letters and it’s the first thing you see.
+
+### The dog at the beach
+
+Search: "our dog at the beach with the red collar"
+
+You remember the picture, not the date. Write it the way it comes to you. Memfind matches what is in the photo, not what the file is called.
+
+### The rent receipt
+
+Search: "ভাড়ার রসিদ মার্চ"
+
+The landlord asks for March. Search in Bengali and it finds the receipt, even though it was written by hand. Arabic works the same way.
+
+### The electricity bill
+
+Search: "how much was the electricity bill in august"
+
+A form wants last August’s bill. A PDF opens on the page that matched, with the passage marked. You don’t scroll through the other three.
+
+### What the doctor said
+
+Search: "how many times a day to take the amoxicillin"
+
+At the pharmacy, trying to remember the dose. Recordings play from near the moment you asked about, so you hear the answer without the first two minutes.
+
+## Compared with other photo search
+
+- **If you use Apple Photos search:** It’s good at photos, and describing them works on iPhone 15 Pro and newer, in the languages Apple Intelligence supports. Bengali and Arabic aren’t among them yet. PDFs and recordings aren’t part of it.
+- **If you use Google Photos:** It describes photos well, in many languages, on any phone. To do that, your library is uploaded to Google. It doesn’t open PDFs on a page or play a recording from a moment.
+- **Memfind:** Photos, PDFs and recordings in one search, on iPhone 11 and newer, in Bengali and Arabic too. Everything stays on the device. $14.99 once, after a week free.

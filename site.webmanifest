@@ -1,0 +1,19 @@
+{
+  "name": "Memfind",
+  "short_name": "Memfind",
+  "description": "Search your photos, screenshots, PDFs and voice recordings in your own words. Everything stays on your device.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#F4F1EA",
+  "theme_color": "#F4F1EA",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "related_applications": [
+    { "platform": "itunes", "url": "https://apps.apple.com/app/id6825525742", "id": "6825525742" }
+  ],
+  "prefer_related_applications": true
+}
