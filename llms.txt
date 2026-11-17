@@ -7,10 +7,10 @@ Memfind is an app for iPhone, iPad and Mac. It is free for 7 days, then $14.99 o
 ## Links
 
 - [Download on the App Store](https://apps.apple.com/app/id6825525742): iPhone, iPad and Mac
-- [Home page](https://www.getmemfind.com/): what it does, with screen recordings
-- [Privacy policy](https://www.getmemfind.com/privacy.html): no data collected
-- [Support](https://www.getmemfind.com/support.html): help, contact memfind.app@gmail.com
-- [Full text for language models](https://www.getmemfind.com/llms-full.txt)
+- [Home page](https://getmemfind.com/): what it does, with screen recordings
+- [Privacy policy](https://getmemfind.com/privacy.html): no data collected
+- [Support](https://getmemfind.com/support.html): help, contact memfind.app@gmail.com
+- [Full text for language models](https://getmemfind.com/llms-full.txt)
 
 ## What it searches
 

@@ -25,4 +25,4 @@ User-agent: Meta-ExternalAgent
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://www.getmemfind.com/sitemap.xml
+Sitemap: https://getmemfind.com/sitemap.xml
